@@ -4,12 +4,12 @@ import { getFirestore, collection, addDoc, getDocs, updateDoc, deleteDoc, doc } 
 
 // Configuración de Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyCyrzloB3GPKWGQ-Iobd7tCXV4MRrYzSvk",
-    authDomain: "desarrollo-app1-1fd97.firebaseapp.com",
-    projectId: "desarrollo-app1-1fd97",
-    storageBucket: "desarrollo-app1-1fd97.firebasestorage.app",
-    messagingSenderId: "437671053791",
-    appId: "1:437671053791:web:fd0c546d202d418b1d9c6a"
+  apiKey: "AIzaSyCQox3Cph_3FImWLhgBoeVecU6ytnM93Oo",
+  authDomain: "clase1viernes.firebaseapp.com",
+  projectId: "clase1viernes",
+  storageBucket: "clase1viernes.firebasestorage.app",
+  messagingSenderId: "757000524875",
+  appId: "1:757000524875:web:1eacc7c9b1cda7b14229ce"
 };
 
 // Inicializa Firebase
